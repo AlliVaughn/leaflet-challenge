@@ -1,0 +1,1 @@
+FLASK_APP=quakeApp/app.py flask run
